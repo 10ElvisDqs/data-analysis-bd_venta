@@ -1,0 +1,48 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+*.log
+*.sqlite3
+*.db
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+venv.bak/
+venv/
+*.env
+
+# Archivos de configuración del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de bases de datos
+*.db
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de configuraciones de Jupyter
+.ipynb_checkpoints
+
+# Archivos de dependencias y entornos
+*.egg-info/
+dist/
+build/
+.eggs/
+*.tar.gz
+
+# Dash app data
+*.sqlite
+*.db
+
+# Archivos específicos de dotenv
+.env
+
+# Otros
+*.bak
