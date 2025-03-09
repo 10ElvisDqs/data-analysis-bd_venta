@@ -38,8 +38,11 @@ pip install -r requirements.txt
 
 📊 Ejemplo de Proyecto
 Aquí tienes un ejemplo visual de cómo luce el proyecto:
+<div align="center">
+  
+  ![FireShot Capture 022 - Dash -  127 0 0 1](https://github.com/user-attachments/assets/667fcc6f-2b72-4b91-8df3-4dc4e9d3ef4b)
 
-
+</div>
 
 # Tecnologías Usadas
 
